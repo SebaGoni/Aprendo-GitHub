@@ -1,6 +1,11 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hola
 =======
 Hola 1
 Hola 2
 >>>>>>> archivo.txt
+=======
+Hola
+Estoy probando como funciona un branch
+>>>>>>> Testing
